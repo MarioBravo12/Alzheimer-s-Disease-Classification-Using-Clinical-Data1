@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14894609.svg)](https://doi.org/10.5281/zenodo.14894609)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Abstract
 
